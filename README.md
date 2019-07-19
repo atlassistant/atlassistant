@@ -16,7 +16,7 @@ Going from idea to implementation should be as easy as possible, including writi
 
 To make it more end user friendly, satellite projects are being built to expose an agent (ie. your assistant with its state) on communication channels (such as MQTT or WebSockets).
 
-The final step is then to develop some clients (Terminal, chatbots, audio pod, mobile app, web app) which connect to an agent using those channels.
+The final step is then to develop some **clients** (Terminal, chatbots, audio pod, mobile app, web app) which connect to an agent using those channels.
 
 ## Current status
 
